@@ -1,0 +1,273 @@
+{
+  "generated": "2026-06-27",
+  "note": "Relative paths; prepend your CDN base URL. All assets are transparent RGBA stickers with a white keyline on the pure-black theme.",
+  "teams": [
+    {
+      "id": 1,
+      "slug": "al-hilal",
+      "name_en": "Al-Hilal",
+      "name_ar": "الهلال",
+      "abbreviation": "HIL",
+      "logo": "teams/logos/al-hilal.png"
+    },
+    {
+      "id": 2,
+      "slug": "al-nassr",
+      "name_en": "Al-Nassr",
+      "name_ar": "النصر",
+      "abbreviation": "NSR",
+      "logo": "teams/logos/al-nassr.png"
+    },
+    {
+      "id": 3,
+      "slug": "al-ahli",
+      "name_en": "Al-Ahli",
+      "name_ar": "الأهلي",
+      "abbreviation": "AHL",
+      "logo": "teams/logos/al-ahli.png"
+    },
+    {
+      "id": 4,
+      "slug": "al-ittihad",
+      "name_en": "Al-Ittihad",
+      "name_ar": "الاتحاد",
+      "abbreviation": "ITT",
+      "logo": "teams/logos/al-ittihad.png"
+    },
+    {
+      "id": 5,
+      "slug": "al-qadsiah",
+      "name_en": "Al-Qadsiah",
+      "name_ar": "القادسية",
+      "abbreviation": "QAD",
+      "logo": "teams/logos/al-qadsiah.png"
+    },
+    {
+      "id": 6,
+      "slug": "al-taawoun",
+      "name_en": "Al-Taawoun",
+      "name_ar": "التعاون",
+      "abbreviation": "TAA",
+      "logo": "teams/logos/al-taawoun.png"
+    },
+    {
+      "id": 7,
+      "slug": "al-ettifaq",
+      "name_en": "Al-Ettifaq",
+      "name_ar": "الاتفاق",
+      "abbreviation": "ETT",
+      "logo": "teams/logos/al-ettifaq.png"
+    },
+    {
+      "id": 8,
+      "slug": "al-shabab",
+      "name_en": "Al-Shabab",
+      "name_ar": "الشباب",
+      "abbreviation": "SHA",
+      "logo": "teams/logos/al-shabab.png"
+    },
+    {
+      "id": 9,
+      "slug": "al-khaleej",
+      "name_en": "Al-Khaleej",
+      "name_ar": "الخليج",
+      "abbreviation": "KHA",
+      "logo": "teams/logos/al-khaleej.png"
+    },
+    {
+      "id": 10,
+      "slug": "neom-sc",
+      "name_en": "Neom SC",
+      "name_ar": "نيوم",
+      "abbreviation": "NEO",
+      "logo": "teams/logos/neom-sc.png"
+    },
+    {
+      "id": 11,
+      "slug": "al-fateh",
+      "name_en": "Al-Fateh",
+      "name_ar": "الفتح",
+      "abbreviation": "FAT",
+      "logo": "teams/logos/al-fateh.png"
+    },
+    {
+      "id": 12,
+      "slug": "al-hazem",
+      "name_en": "Al-Hazem",
+      "name_ar": "الحزم",
+      "abbreviation": "HAZ",
+      "logo": "teams/logos/al-hazem.png"
+    },
+    {
+      "id": 13,
+      "slug": "al-fayha",
+      "name_en": "Al-Fayha",
+      "name_ar": "الفيحاء",
+      "abbreviation": "FAY",
+      "logo": "teams/logos/al-fayha.png"
+    },
+    {
+      "id": 14,
+      "slug": "al-kholood",
+      "name_en": "Al-Kholood",
+      "name_ar": "الخلود",
+      "abbreviation": "KHO",
+      "logo": "teams/logos/al-kholood.png"
+    },
+    {
+      "id": 15,
+      "slug": "al-riyadh",
+      "name_en": "Al-Riyadh",
+      "name_ar": "الرياض",
+      "abbreviation": "RIY",
+      "logo": "teams/logos/al-riyadh.png"
+    },
+    {
+      "id": 16,
+      "slug": "abha",
+      "name_en": "Abha",
+      "name_ar": "أبها",
+      "abbreviation": "ABH",
+      "logo": "teams/logos/abha.png"
+    },
+    {
+      "id": 17,
+      "slug": "al-faisaly",
+      "name_en": "Al-Faisaly",
+      "name_ar": "الفيصلي",
+      "abbreviation": "FAI",
+      "logo": "teams/logos/al-faisaly.png"
+    },
+    {
+      "id": 18,
+      "slug": "diriyah",
+      "name_en": "Diriyah",
+      "name_ar": "الدرعية",
+      "abbreviation": "DIR",
+      "logo": "teams/logos/diriyah.png"
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name_en": "Cristiano Ronaldo",
+      "name_ar": "كريستيانو رونالدو",
+      "team_name": "Al-Nassr",
+      "team_slug": "al-nassr",
+      "position": "FWD",
+      "is_gk": false,
+      "headshot": "players/headshots/1.png",
+      "icon": "players/icons/1.png"
+    },
+    {
+      "id": 2,
+      "name_en": "Salem Al-Dawsari",
+      "name_ar": "سالم الدوسري",
+      "team_name": "Al-Hilal",
+      "team_slug": "al-hilal",
+      "position": "MID",
+      "is_gk": false,
+      "headshot": "players/headshots/2.png",
+      "icon": "players/icons/2.png"
+    },
+    {
+      "id": 3,
+      "name_en": "Joao Felix",
+      "name_ar": "جواو فيليكس",
+      "team_name": "Al-Nassr",
+      "team_slug": "al-nassr",
+      "position": "FWD",
+      "is_gk": false,
+      "headshot": "players/headshots/3.png",
+      "icon": "players/icons/3.png"
+    },
+    {
+      "id": 4,
+      "name_en": "Ivan Toney",
+      "name_ar": "إيفان توني",
+      "team_name": "Al-Ahli",
+      "team_slug": "al-ahli",
+      "position": "FWD",
+      "is_gk": false,
+      "headshot": "players/headshots/4.png",
+      "icon": "players/icons/4.png"
+    },
+    {
+      "id": 5,
+      "name_en": "Musab Al-Juwayr",
+      "name_ar": "مصعب الجوير",
+      "team_name": "Al-Qadsiah",
+      "team_slug": "al-qadsiah",
+      "position": "MID",
+      "is_gk": false,
+      "headshot": "players/headshots/5.png",
+      "icon": "players/icons/5.png"
+    },
+    {
+      "id": 6,
+      "name_en": "Ruben Neves",
+      "name_ar": "روبن نيفيز",
+      "team_name": "Al-Hilal",
+      "team_slug": "al-hilal",
+      "position": "MID",
+      "is_gk": false,
+      "headshot": "players/headshots/6.png",
+      "icon": "players/icons/6.png"
+    },
+    {
+      "id": 7,
+      "name_en": "Roger Ibanez",
+      "name_ar": "روجر ايبانيز",
+      "team_name": "Al-Ahli",
+      "team_slug": "al-ahli",
+      "position": "DEF",
+      "is_gk": false,
+      "headshot": "players/headshots/7.png",
+      "icon": "players/icons/7.png"
+    },
+    {
+      "id": 8,
+      "name_en": "Hassan Tambakti",
+      "name_ar": "حسن تمبكتي",
+      "team_name": "Al-Hilal",
+      "team_slug": "al-hilal",
+      "position": "DEF",
+      "is_gk": false,
+      "headshot": "players/headshots/8.png",
+      "icon": "players/icons/8.png"
+    },
+    {
+      "id": 9,
+      "name_en": "Mohamed Simakan",
+      "name_ar": "محمد سيماكان",
+      "team_name": "Al-Nassr",
+      "team_slug": "al-nassr",
+      "position": "DEF",
+      "is_gk": false,
+      "headshot": "players/headshots/9.png",
+      "icon": "players/icons/9.png"
+    },
+    {
+      "id": 10,
+      "name_en": "Yassine Bounou",
+      "name_ar": "ياسين بونو",
+      "team_name": "Al-Hilal",
+      "team_slug": "al-hilal",
+      "position": "GK",
+      "is_gk": true,
+      "headshot": "players/headshots/10.png",
+      "icon": "players/icons/10.png"
+    },
+    {
+      "id": 11,
+      "name_en": "Edouard Mendy",
+      "name_ar": "إدوارد ميندي",
+      "team_name": "Al-Ahli",
+      "team_slug": "al-ahli",
+      "position": "GK",
+      "is_gk": true,
+      "headshot": "players/headshots/11.png",
+      "icon": "players/icons/11.png"
+    }
+  ]
+}
